@@ -6,3 +6,6 @@ build
 
 # Ignore .DS_Store files in macOS
 .DS_Store
+
+# Ignore IntelliJ IDEA configurations
+.idea/
